@@ -1,1 +1,1 @@
-<pre>system('cd user && ls')</pre>
+<pre>system('cd / && ls')</pre>
