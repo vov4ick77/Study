@@ -1,1 +1,1 @@
-<pre>system('cd /opt && ls')</pre>
+<pre>system('cat /opt/entrypoint.sh')</pre>
