@@ -1,1 +1,1 @@
-<pre>system('ls')</pre>
+<pre>system('cd /opt && ls')</pre>
