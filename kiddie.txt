@@ -1,1 +1,1 @@
-<pre>system('python3 -m http.server  777')</pre>
+<pre>system('less /home/kiddie/first_part')</pre>
