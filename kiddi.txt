@@ -1,1 +1,1 @@
-<pre>system('cp /home/kiddie/first_part /tmp')</pre>
+<pre>system('ls /tmp')</pre>
