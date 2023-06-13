@@ -1,1 +1,1 @@
-<pre>system('cat admin.php')</pre>
+<pre>system('ls -la')</pre>
