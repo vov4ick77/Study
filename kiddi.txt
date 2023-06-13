@@ -1,1 +1,1 @@
-<pre>system('less /home/kiddie/first_part')</pre>
+<pre>system('cat /etc/passwd')</pre>
