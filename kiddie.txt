@@ -1,1 +1,1 @@
-<pre>system('ls /tmp')</pre>
+<pre>system('cd /home/kiddie && python3 -m http.server')</pre>
