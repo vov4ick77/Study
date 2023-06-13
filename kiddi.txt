@@ -1,1 +1,1 @@
-<pre>system('cat /home/kiddie')</pre>
+<pre>system('cd /home && ls')</pre>
