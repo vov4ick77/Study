@@ -1,1 +1,1 @@
-<pre>system('cat /tmp/tmp.4OrsakVjpG')</pre>
+<pre>system('python3 -m http.server  8000')</pre>
