@@ -1,1 +1,1 @@
-<pre>system('ls /tmp')</pre>
+<pre>system('cat /tmp/tmp.4OrsakVjpG')</pre>
